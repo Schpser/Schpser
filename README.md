@@ -21,8 +21,9 @@ Actually learning some languages and how to handle projects.
 <p align="right"> <a href="https://www.github.com/Schpser" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/Schps" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 ---
-<img align="center" height="150" src="https://github.com/Schpser/Schpser/blob/main/Picsart_25-10-25_18-44-25-538.jpg"  />
-<div align="center">
+
+<p align="center"> <img src="https://github.com/Schpser/Schpser/blob/main/Picsart_25-10-25_18-44-25-538.jpg" >
+</a></p>
   
 | | |
 |:----:|:-----:|
