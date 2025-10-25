@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Actually learning some languages and how to handle projects.
 
-<img align="right" height="150" src="/Schpser/PP2025.jpg"  />
+<img align="right" height="150" src="https://github.com/Schpser/Schpser/blob/main/PP2025.jpg"  />
 
 - 🌍  I'm based in France
 - ✉️  You can contact me at [schps.game@gmail.com](mailto:schps.game@gmail.com)
